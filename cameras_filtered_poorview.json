@@ -1,0 +1,726 @@
+{
+    "features": [
+        {
+            "properties": {
+                "rowid": "1",
+                "ID": "0000309302ce009e0052fa36c4235c0a",
+                "location": "I-95N GP AT I-695, MP 63.9 (C024B)",
+                "url": "rtmp://strmr5.sha.maryland.gov/rtplive/0000309302ce009e0052fa36c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/0000309302ce009e0052fa36c4235c0a",
+                "hlsurl": "https://strmr5.sha.maryland.gov/rtplive/0000309302ce009e0052fa36c4235c0a/playlist.m3u8",
+                "Latitude": "39.350952",
+                "Longitude": "-76.494608",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "7",
+                "ID": "0200f4dc00c300a00052fa36c4235c0a",
+                "location": "I-70 East at South Mountain",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/0200f4dc00c300a00052fa36c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/0200f4dc00c300a00052fa36c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/0200f4dc00c300a00052fa36c4235c0a/playlist.m3u8",
+                "Latitude": "39.526528",
+                "Longitude": "-77.603468",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "8",
+                "ID": "02016830009d00160061d336c4235c0a",
+                "location": "US 40 WEST OF MARRIOTTSVILLE RD",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/02016830009d00160061d336c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/02016830009d00160061d336c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/02016830009d00160061d336c4235c0a/playlist.m3u8",
+                "Latitude": "39.297032",
+                "Longitude": "-76.903937",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "640",
+                "size_height": "480",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "13",
+                "ID": "0601b947006500d40050fa36c4235c0a",
+                "location": "RWIS MD 213 AT SASSAFRAS RIVER",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/0601b947006500d40050fa36c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/0601b947006500d40050fa36c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/0601b947006500d40050fa36c4235c0a/playlist.m3u8",
+                "Latitude": "39.363501",
+                "Longitude": "-75.881538",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "18",
+                "ID": "0900adbd00ee00e30051fa36c4235c0a",
+                "location": "I-97 N OF MD-648 (502024)",
+                "url": "rtmp://strmr5.sha.maryland.gov/rtplive/0900adbd00ee00e30051fa36c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/0900adbd00ee00e30051fa36c4235c0a",
+                "hlsurl": "https://strmr5.sha.maryland.gov/rtplive/0900adbd00ee00e30051fa36c4235c0a/playlist.m3u8",
+                "Latitude": "39.181481",
+                "Longitude": "-76.632707",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "640",
+                "size_height": "480",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "20",
+                "ID": "0901cb3400e80039004606363d235daa",
+                "location": "I-95 N of MD 152 (C020) MP 74.2",
+                "url": "rtmp://strmr5.sha.maryland.gov/rtplive/0901cb3400e80039004606363d235daa",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/0901cb3400e80039004606363d235daa",
+                "hlsurl": "https://strmr5.sha.maryland.gov/rtplive/0901cb3400e80039004606363d235daa/playlist.m3u8",
+                "Latitude": "39.442234",
+                "Longitude": "-76.343368",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "23",
+                "ID": "0b01b57900060075004d823633235daa",
+                "location": "Connecticut Ave (MD 185) at East West Hwy (MD 410)(CAM 15)",
+                "url": "rtmp://strmr5.sha.maryland.gov/rtplive/0b01b57900060075004d823633235daa",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/0b01b57900060075004d823633235daa",
+                "hlsurl": "https://strmr5.sha.maryland.gov/rtplive/0b01b57900060075004d823633235daa/playlist.m3u8",
+                "Latitude": "38.987635",
+                "Longitude": "-77.077739",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "320",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "24",
+                "ID": "0b02795800f700d700437a45351f0214",
+                "location": "I-495 W OF MD 97",
+                "url": "rtmp://strmr5.sha.maryland.gov/rtplive/0b02795800f700d700437a45351f0214",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/0b02795800f700d700437a45351f0214",
+                "hlsurl": "https://strmr5.sha.maryland.gov/rtplive/0b02795800f700d700437a45351f0214/playlist.m3u8",
+                "Latitude": "39.013776",
+                "Longitude": "-77.053815",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "640",
+                "size_height": "480",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "26",
+                "ID": "0d009bac017000850053fa36c4235c0a",
+                "location": "I-695 O/L Pier #17",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/0d009bac017000850053fa36c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/0d009bac017000850053fa36c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/0d009bac017000850053fa36c4235c0a/playlist.m3u8",
+                "Latitude": "39.215671",
+                "Longitude": "-76.527059",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "28",
+                "ID": "0e015e1d002b00b4005ed336c4235c0a",
+                "location": "I-95 FMT TOLL PLAZA (C039A)",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/0e015e1d002b00b4005ed336c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/0e015e1d002b00b4005ed336c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/0e015e1d002b00b4005ed336c4235c0a/playlist.m3u8",
+                "Latitude": "39.266343",
+                "Longitude": "-76.562507",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "30",
+                "ID": "0f012c5400e000aa004e3436c4235c0a",
+                "location": "I-695 O/L AT EX 20 MD 140",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/0f012c5400e000aa004e3436c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/0f012c5400e000aa004e3436c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/0f012c5400e000aa004e3436c4235c0a/playlist.m3u8",
+                "Latitude": "39.384767",
+                "Longitude": "-76.734467",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "640",
+                "size_height": "480",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "37",
+                "ID": "1101dd5c00fa0006005bfa36c4235c0a",
+                "location": "I-70 West past Bartholows Rd",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/1101dd5c00fa0006005bfa36c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/1101dd5c00fa0006005bfa36c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/1101dd5c00fa0006005bfa36c4235c0a/playlist.m3u8",
+                "Latitude": "39.374968",
+                "Longitude": "-77.228617",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "640",
+                "size_height": "480",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "39",
+                "ID": "1201953f005200330063d336c4235c0a",
+                "location": "US 301 HWN BRIDGE M.M. 141.5",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/1201953f005200330063d336c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/1201953f005200330063d336c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/1201953f005200330063d336c4235c0a/playlist.m3u8",
+                "Latitude": "38.357517",
+                "Longitude": "-77.029863",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "41",
+                "ID": "1400b84100a300ab0050fa36c4235c0a",
+                "location": "RWIS US 50 at CHOPTANK RIVER",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/1400b84100a300ab0050fa36c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/1400b84100a300ab0050fa36c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/1400b84100a300ab0050fa36c4235c0a/playlist.m3u8",
+                "Latitude": "38.591557",
+                "Longitude": "-76.047346",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "42",
+                "ID": "15013dfcc47601b8004606363d235daa",
+                "location": "I-695 S of FSK Bridge (C052) MP 49.1",
+                "url": "rtmp://strmr5.sha.maryland.gov/rtplive/15013dfcc47601b8004606363d235daa",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/15013dfcc47601b8004606363d235daa",
+                "hlsurl": "https://strmr5.sha.maryland.gov/rtplive/15013dfcc47601b8004606363d235daa/playlist.m3u8",
+                "Latitude": "39.208327",
+                "Longitude": "-76.543241",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "43",
+                "ID": "1501835800f700d700437a45351f0214",
+                "location": "I-270 S OF SPLIT",
+                "url": "rtmp://strmr5.sha.maryland.gov/rtplive/1501835800f700d700437a45351f0214",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/1501835800f700d700437a45351f0214",
+                "hlsurl": "https://strmr5.sha.maryland.gov/rtplive/1501835800f700d700437a45351f0214/playlist.m3u8",
+                "Latitude": "39.033571",
+                "Longitude": "-77.14186",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "640",
+                "size_height": "480",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "45",
+                "ID": "15026b78004600330063d336c4235c0a",
+                "location": "US 301 HWN BRIDGE G8",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/15026b78004600330063d336c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/15026b78004600330063d336c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/15026b78004600330063d336c4235c0a/playlist.m3u8",
+                "Latitude": "38.363855",
+                "Longitude": "-76.984181",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "46",
+                "ID": "1601e0b4007c00340055fa36c4235c0a",
+                "location": "I-95 N PAST EXIT 61 MM 60.0 (C042A on TRS 8082)",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/1601e0b4007c00340055fa36c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/1601e0b4007c00340055fa36c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/1601e0b4007c00340055fa36c4235c0a/playlist.m3u8",
+                "Latitude": "39.308458",
+                "Longitude": "-76.531308",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "51",
+                "ID": "19016588004000330063d336c4235c0a",
+                "location": "US 301 HWN BRIDGE G9",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/19016588004000330063d336c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/19016588004000330063d336c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/19016588004000330063d336c4235c0a/playlist.m3u8",
+                "Latitude": "38.363271",
+                "Longitude": "-76.987774",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "52",
+                "ID": "1a0142cf013f0016005dd336c4235c0a",
+                "location": "I-95 AT MD 216",
+                "url": "rtmp://strmr5.sha.maryland.gov/rtplive/1a0142cf013f0016005dd336c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/1a0142cf013f0016005dd336c4235c0a",
+                "hlsurl": "https://strmr5.sha.maryland.gov/rtplive/1a0142cf013f0016005dd336c4235c0a/playlist.m3u8",
+                "Latitude": "39.129264",
+                "Longitude": "-76.862524",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "640",
+                "size_height": "480",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "55",
+                "ID": "1a01fd6300950072005dd336c4235c0a",
+                "location": "I-95 N. OF I-695 SW",
+                "url": "rtmp://strmr5.sha.maryland.gov/rtplive/1a01fd6300950072005dd336c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/1a01fd6300950072005dd336c4235c0a",
+                "hlsurl": "https://strmr5.sha.maryland.gov/rtplive/1a01fd6300950072005dd336c4235c0a/playlist.m3u8",
+                "Latitude": "39.261996",
+                "Longitude": "-76.673162",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "640",
+                "size_height": "480",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "57",
+                "ID": "1b0011cc006300800045833633235daa",
+                "location": "MD 152 E. of I-95 JOPPA TWR",
+                "url": "rtmp://strmr5.sha.maryland.gov/rtplive/1b0011cc006300800045833633235daa",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/1b0011cc006300800045833633235daa",
+                "hlsurl": "https://strmr5.sha.maryland.gov/rtplive/1b0011cc006300800045833633235daa/playlist.m3u8",
+                "Latitude": "39.43928",
+                "Longitude": "-76.346494",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "320",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "58",
+                "ID": "1b00c8e9008000160057fa36c4235c0a",
+                "location": "US 340 AT MD 17",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/1b00c8e9008000160057fa36c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/1b00c8e9008000160057fa36c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/1b00c8e9008000160057fa36c4235c0a/playlist.m3u8",
+                "Latitude": "39.33974",
+                "Longitude": "-77.64032",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "640",
+                "size_height": "480",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "59",
+                "ID": "1b00d699004a008e0057fa36c4235c0a",
+                "location": "I-70 West at St Paul Rd",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/1b00d699004a008e0057fa36c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/1b00d699004a008e0057fa36c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/1b00d699004a008e0057fa36c4235c0a/playlist.m3u8",
+                "Latitude": "39.651798",
+                "Longitude": "-77.887994",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "640",
+                "size_height": "480",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "61",
+                "ID": "1b01e0330015001c005afa36c4235c0a",
+                "location": "I-70 East at I-81",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/1b01e0330015001c005afa36c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/1b01e0330015001c005afa36c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/1b01e0330015001c005afa36c4235c0a/playlist.m3u8",
+                "Latitude": "39.616554",
+                "Longitude": "-77.785302",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "62",
+                "ID": "1bff1ca000a6008e004be2369e235daa",
+                "location": "I-695 AT OLD COURT RD",
+                "url": "rtmp://strmr5.sha.maryland.gov/rtplive/1bff1ca000a6008e004be2369e235daa",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/1bff1ca000a6008e004be2369e235daa",
+                "hlsurl": "https://strmr5.sha.maryland.gov/rtplive/1bff1ca000a6008e004be2369e235daa/playlist.m3u8",
+                "Latitude": "39.369581",
+                "Longitude": "-76.748638",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "640",
+                "size_height": "480",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "63",
+                "ID": "1d0031cf01c000a9005dd336c4235c0a",
+                "location": "I-68 West of Ex 40 MD 658",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/1d0031cf01c000a9005dd336c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/1d0031cf01c000a9005dd336c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/1d0031cf01c000a9005dd336c4235c0a/playlist.m3u8",
+                "Latitude": "39.634813",
+                "Longitude": "-78.844313",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "640",
+                "size_height": "480",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "64",
+                "ID": "1d00a7ae017200850053fa36c4235c0a",
+                "location": "I-695 O/L Pier #19",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/1d00a7ae017200850053fa36c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/1d00a7ae017200850053fa36c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/1d00a7ae017200850053fa36c4235c0a/playlist.m3u8",
+                "Latitude": "39.220805",
+                "Longitude": "-76.522047",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "65",
+                "ID": "1d0166a4003b001f0063d336c4235c0a",
+                "location": "US 301 HWN BRIDGE G5",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/1d0166a4003b001f0063d336c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/1d0166a4003b001f0063d336c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/1d0166a4003b001f0063d336c4235c0a/playlist.m3u8",
+                "Latitude": "38.364759",
+                "Longitude": "-76.974412",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "66",
+                "ID": "1d01d54801280075004d823633235daa",
+                "location": "Columbia Pk (US 29) at Lockwood Dr (CAM 31)",
+                "url": "rtmp://strmr5.sha.maryland.gov/rtplive/1d01d54801280075004d823633235daa",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/1d01d54801280075004d823633235daa",
+                "hlsurl": "https://strmr5.sha.maryland.gov/rtplive/1d01d54801280075004d823633235daa/playlist.m3u8",
+                "Latitude": "39.032867",
+                "Longitude": "-77.002972",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "320",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "72",
+                "ID": "2100d19c00cc00180053fa36c4235c0a",
+                "location": "RWIS I-270 AT MD 109",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/2100d19c00cc00180053fa36c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/2100d19c00cc00180053fa36c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/2100d19c00cc00180053fa36c4235c0a/playlist.m3u8",
+                "Latitude": "39.277",
+                "Longitude": "-77.32333",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "73",
+                "ID": "2201f01800f8006f005dd336c4235c0a",
+                "location": "US 1 AT CONOWINGO TWR",
+                "url": "rtmp://strmr5.sha.maryland.gov/rtplive/2201f01800f8006f005dd336c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/2201f01800f8006f005dd336c4235c0a",
+                "hlsurl": "https://strmr5.sha.maryland.gov/rtplive/2201f01800f8006f005dd336c4235c0a/playlist.m3u8",
+                "Latitude": "39.655177",
+                "Longitude": "-76.181298",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "640",
+                "size_height": "480",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "74",
+                "ID": "2300899400e40039004606363d235daa",
+                "location": "I-95 S of Frenchtown Rd (C009) MP 92.2",
+                "url": "rtmp://strmr5.sha.maryland.gov/rtplive/2300899400e40039004606363d235daa",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/2300899400e40039004606363d235daa",
+                "hlsurl": "https://strmr5.sha.maryland.gov/rtplive/2300899400e40039004606363d235daa/playlist.m3u8",
+                "Latitude": "39.585919",
+                "Longitude": "-76.080874",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "75",
+                "ID": "2300b7fb0096000b0053fa36c4235c0a",
+                "location": "MD 4 AT THREE NOTCH RD",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/2300b7fb0096000b0053fa36c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/2300b7fb0096000b0053fa36c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/2300b7fb0096000b0053fa36c4235c0a/playlist.m3u8",
+                "Latitude": "38.303742",
+                "Longitude": "-76.520004",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "640",
+                "size_height": "480",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "76",
+                "ID": "23011ea3006a0009004c06363d235daa",
+                "location": "I-695 O/L, Prior to I-95, Exit 33 (C025A), MP32.8",
+                "url": "rtmp://strmr5.sha.maryland.gov/rtplive/23011ea3006a0009004c06363d235daa",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/23011ea3006a0009004c06363d235daa",
+                "hlsurl": "https://strmr5.sha.maryland.gov/rtplive/23011ea3006a0009004c06363d235daa/playlist.m3u8",
+                "Latitude": "39.342945",
+                "Longitude": "-76.493706",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "77",
+                "ID": "23011ea3006a0009004c06363d235daa",
+                "location": "I-695 AT COVE RD",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/2301638a0027005a005fd336c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/2301638a0027005a005fd336c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/2301638a0027005a005fd336c4235c0a/playlist.m3u8",
+                "Latitude": "39.27813",
+                "Longitude": "-76.472377",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "640",
+                "size_height": "480",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "79",
+                "ID": "2401ee34007900d8005bd336c4235c0a",
+                "location": "I-95 SB N of Eastern Ave. (C042B)",
+                "url": "rtmp://strmr3.sha.maryland.gov/rtplive/2401ee34007900d8005bd336c4235c0a",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/2401ee34007900d8005bd336c4235c0a",
+                "hlsurl": "https://strmr3.sha.maryland.gov/rtplive/2401ee34007900d8005bd336c4235c0a/playlist.m3u8",
+                "Latitude": "39.294612",
+                "Longitude": "-76.532288",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "352",
+                "size_height": "240",
+                "Skip Camera": "0"
+            }
+        },
+        {
+            "properties": {
+                "rowid": "80",
+                "ID": "260016bb004200f0004ae33696235daa",
+                "location": "I-95/495 AT GOOD LUCK ROAD",
+                "url": "rtmp://strmr5.sha.maryland.gov/rtplive/260016bb004200f0004ae33696235daa",
+                "CCTVPublicURL": "https://chart.maryland.gov/Video/GetVideo/260016bb004200f0004ae33696235daa",
+                "hlsurl": "https://strmr5.sha.maryland.gov/rtplive/260016bb004200f0004ae33696235daa/playlist.m3u8",
+                "Latitude": "38.978536",
+                "Longitude": "-76.873603",
+                "No Video Panel": "0",
+                "No Connection": "0",
+                "Bad View": "0",
+                "Note": "",
+                "size_width": "640",
+                "size_height": "480",
+                "Skip Camera": "0"
+            }
+        }
+    ]
+}
